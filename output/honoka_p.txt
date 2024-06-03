@@ -1,0 +1,59 @@
+commuting
+{"joy": 20, "anticipation": 40, "anger": 0, "trust": 70, "sadness": 10, "surprise": 20, "fear": 30, "disgust": 0}
+---------------------------------------------
+planning schedules
+{"joy": 50, "anticipation": 70, "anger": 0, "trust": 80, "sadness": 0, "surprise": 20, "fear": 5, "disgust": 0}
+---------------------------------------------
+resting
+{"joy": 50, "anticipation": 20, "anger": 0, "trust": 70, "sadness": 5, "surprise": 10, "fear": 0, "disgust": 0}
+---------------------------------------------
+shopping
+{"joy": 70, "anticipation": 65, "anger": 0, "trust": 75, "sadness": 0, "surprise": 30, "fear": 5, "disgust": 0}
+---------------------------------------------
+walking
+{"joy": 50, "anticipation": 40, "anger": 0, "trust": 70, "sadness": 0, "surprise": 20, "fear": 5, "disgust": 0}
+---------------------------------------------
+overcoming a challenges
+{"joy": 75, "anticipation": 65, "anger": 0, "trust": 90, "sadness": 5, "surprise": 40, "fear": 30, "disgust": 0}
+---------------------------------------------
+birthday
+{"joy": 95, "anticipation": 90, "anger": 0, "trust": 100, "sadness": 0, "surprise": 80, "fear": 0, "disgust": 0}
+---------------------------------------------
+moment of inspiration
+{"joy": 75, "anticipation": 85, "anger": 0, "trust": 90, "sadness": 0, "surprise": 60, "fear": 0, "disgust": 0}
+---------------------------------------------
+connecting with friends
+{"joy": 75, "anticipation": 65, "anger": 0, "trust": 80, "sadness": 5, "surprise": 45, "fear": 20, "disgust": 0}
+---------------------------------------------
+achieving a personal goal
+{"joy": 75, "anticipation": 70, "anger": 0, "trust": 65, "sadness": 0, "surprise": 55, "fear": 5, "disgust": 0}
+---------------------------------------------
+facing failures
+{"joy": 5, "anticipation": 10, "anger": 20, "trust": 70, "sadness": 60, "surprise": 30, "fear": 40, "disgust": 5}
+---------------------------------------------
+accidents
+{"joy": 0, "anticipation": 0, "anger": 0, "trust": 90, "sadness": 70, "surprise": 80, "fear": 100, "disgust": 0}
+---------------------------------------------
+having problem in health
+{"joy": 5, "anticipation": 10, "anger": 0, "trust": 90, "sadness": 70, "surprise": 20, "fear": 60, "disgust": 0}
+---------------------------------------------
+bereavement
+{"joy": 0, "anticipation": 0, "anger": 0, "trust": 90, "sadness": 100, "surprise": 0, "fear": 20, "disgust": 0}
+---------------------------------------------
+waiting in long lines
+{"joy": 5, "anticipation": 20, "anger": 15, "trust": 40, "sadness": 30, "surprise": 0, "fear": 0, "disgust": 10}
+---------------------------------------------
+finding good fabric
+{"joy": 75, "anticipation": 70, "anger": 0, "trust": 60, "sadness": 0, "surprise": 40, "fear": 0, "disgust": 0}
+---------------------------------------------
+finishing reading a interesting book
+{"joy": 75, "anticipation": 0, "anger": 0, "trust": 60, "sadness": 20, "surprise": 0, "fear": 0, "disgust": 0}
+---------------------------------------------
+running into お兄ちゃん
+{"joy": 90, "anticipation": 70, "anger": 0, "trust": 100, "sadness": 0, "surprise": 60, "fear": 0, "disgust": 0}
+---------------------------------------------
+complimented by お兄ちゃん
+{"joy": 90, "anticipation": 30, "anger": 0, "trust": 100, "sadness": 0, "surprise": 60, "fear": 0, "disgust": 0}
+---------------------------------------------
+leisure with お兄ちゃん
+{"joy": 95, "anticipation": 80, "anger": 0, "trust": 100, "sadness": 0, "surprise": 20, "fear": 5, "disgust": 0}

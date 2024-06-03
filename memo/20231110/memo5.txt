@@ -1,0 +1,18 @@
+{'internal_state': 'お兄ちゃんに褒められた', 'external_situation': '自分の部屋'}
+{"ecstasy": 75, "adoration": 90, "terror": 0, "amazement": 20, "grief": 0, "loathing": 0, "rage": 0, "vigilance": 30}
+---------------------------------------------
+{'internal_state': 'お兄ちゃんにキスされた', 'external_situation': 'ベッドの上'}
+{"ecstasy": 70, "adoration": 90, "terror": 5, "amazement": 55, "grief": 0, "loathing": 0, "rage": 0, "vigilance": 20}
+---------------------------------------------
+{'internal_state': 'お兄ちゃんが殺された', 'external_situation': ''}
+{"ecstasy": 0, "adoration": 70, "terror": 90, "amazement": 0, "grief": 100, "loathing": 0, "rage": 50, "vigilance": 80}
+---------------------------------------------
+{'internal_state': '知らない人に声をかけられた', 'external_situation': '通学路'}
+{"ecstasy": 5, "adoration": 30, "terror": 50, "amazement": 10, "grief": 0, "loathing": 15, "rage": 0, "vigilance": 80}
+---------------------------------------------
+{'internal_state': 'お兄ちゃんが殺された', 'external_situation': ''}
+{"ecstasy": 0, "adoration": 0, "terror": 90, "amazement": 0, "grief": 100, "loathing": 0, "rage": 80, "vigilance": 80}
+---------------------------------------------
+{'internal_state': '', 'external_situation': '通学路に金塊が落ちている'}
+{"ecstasy": 30, "adoration": 25, "terror": 0, "amazement": 75, "grief": 0, "loathing": 0, "rage": 0, "vigilance": 50}
+---------------------------------------------

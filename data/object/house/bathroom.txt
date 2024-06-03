@@ -1,0 +1,7 @@
+def shower(time_):
+    #you simply clean body
+    #you take a shower for time_ minutes
+
+def bath(time_):
+    #you refresh your body and mind
+    #you take a bath for time_ minutes

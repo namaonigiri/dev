@@ -1,0 +1,7 @@
+exit(place_):
+    #you leave the house
+    #you can choose destination from items below
+    *post office
+    *restaurant
+    *supermarket
+    *school

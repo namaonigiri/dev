@@ -1,0 +1,8 @@
+def brush_teeth(time_):
+    #brush your teeth
+
+def wash_face(time_):
+    #wash your face
+
+def set_hair(time_):
+    #set your hair

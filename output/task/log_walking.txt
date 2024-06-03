@@ -1,0 +1,18 @@
+test.py
+---------------------------------------------
+walking
+{"joy": 70, "anticipation": 50, "anger": 0, "trust": 60, "sadness": 0, "surprise": 20, "fear": 0, "disgust": 0}
+---------------------------------------------
+walking
+{"joy": 70, "anticipation": 50, "anger": 0, "trust": 60, "sadness": 0, "surprise": 20, "fear": 0, "disgust": 0}
+---------------------------------------------
+walking
+{"joy": 70, "anticipation": 50, "anger": 0, "trust": 40, "sadness": 0, "surprise": 20, "fear": 5, "disgust": 0}
+---------------------------------------------
+walking
+{"joy": 70, "anticipation": 50, "anger": 0, "trust": 60, "sadness": 0, "surprise": 20, "fear": 0, "disgust": 0}
+---------------------------------------------
+walking
+{"joy": 70, "anticipation": 50, "anger": 0, "trust": 60, "sadness": 0, "surprise": 20, "fear": 0, "disgust": 0}
+---------------------------------------------
+[0.0, 0.0, 0.0, 8.94427190999916, 0.0, 0.0, 2.23606797749979, 0.0]

@@ -1,0 +1,50 @@
+pic2vec2.py
+---------------------------------------------
+pic1
+['{"joy": 0, "anticipation": 0, "anger": 0, "trust": 0, "sadness": 0, "surprise": 0, "fear": 0, "disgust": 0}']
+---------------------------------------------
+pic1
+['{"joy": 10, "anticipation": 20, "anger": 0, "trust": 40, "sadness": 0, "surprise": 30, "fear": 60, "disgust": 0}']
+---------------------------------------------
+pic1
+['{"joy": 0, "anticipation": 0, "anger": 0, "trust": 0, "sadness": 0, "surprise": 0, "fear": 0, "disgust": 0}']
+---------------------------------------------
+pic1
+['{"joy": 5, "anticipation": 10, "anger": 0, "trust": 20, "sadness": 0, "surprise": 5, "fear": 30, "disgust": 0}']
+---------------------------------------------
+pic1
+['{"joy": 0, "anticipation": 0, "anger": 0, "trust": 0, "sadness": 0, "surprise": 0, "fear": 0, "disgust": 0}']
+---------------------------------------------
+[4.47213595499958, 8.94427190999916, 0.0, 17.88854381999832, 0.0, 13.038404810405298, 26.832815729997478, 0.0]
+pic2
+['{"joy": 5, "anticipation": 10, "anger": 0, "trust": 20, "sadness": 0, "surprise": 5, "fear": 30, "disgust": 0}']
+---------------------------------------------
+pic2
+['{"joy": 5, "anticipation": 10, "anger": 0, "trust": 20, "sadness": 0, "surprise": 5, "fear": 30, "disgust": 0}']
+---------------------------------------------
+pic2
+['{  "joy": 20,  "anticipation": 10,  "anger": 0,  "trust": 10,  "sadness": 5,  "surprise": 5,  "fear": 0,  "disgust": 0}']
+---------------------------------------------
+pic2
+['{  "joy": 20,  "anticipation": 10,  "anger": 0,  "trust": 30,  "sadness": 5,  "surprise": 5,  "fear": 0,  "disgust": 0}']
+---------------------------------------------
+pic2
+['{"joy": 5, "anticipation": 10, "anger": 0, "trust": 20, "sadness": 0, "surprise": 5, "fear": 30, "disgust": 0}']
+---------------------------------------------
+[8.215838362577491, 0.0, 0.0, 7.0710678118654755, 2.7386127875258306, 0.0, 16.431676725154983, 0.0]
+pic3
+['{"joy": 75, "anticipation": 30, "anger": 0, "trust": 50, "sadness": 5, "surprise": 20, "fear": 40, "disgust": 0}']
+---------------------------------------------
+pic3
+['{  "joy": 75,  "anticipation": 30,  "anger": 0,  "trust": 60,  "sadness": 0,  "surprise": 20,  "fear": 5,  "disgust": 0}']
+---------------------------------------------
+pic3
+['{"joy": 75, "anticipation": 30, "anger": 0, "trust": 50, "sadness": 0, "surprise": 60, "fear": 5, "disgust": 0}']
+---------------------------------------------
+pic3
+['{  "joy": 75,  "anticipation": 30,  "anger": 0,  "trust": 50,  "sadness": 0,  "surprise": 20,  "fear": 5,  "disgust": 0}']
+---------------------------------------------
+pic3
+['{  "joy": 75,  "anticipation": 30,  "anger": 0,  "trust": 40,  "sadness": 20,  "surprise": 25,  "fear": 5,  "disgust": 0}']
+---------------------------------------------
+[0.0, 0.0, 0.0, 7.0710678118654755, 8.660254037844387, 17.46424919657298, 15.652475842498529, 0.0]

@@ -1,0 +1,62 @@
+test.py
+---------------------------------------------
+This is a festive night scene featuring a water display with illuminated trees and cascading lights resembling a waterfall. The lights are reflected on the water surface, creating a vibrant and magical atmosphere. A bridge in the background is also lit, contributing to the overall enchantment of the scene.
+{"x1": 90, "x2": 70, "x3": 0, "x4": 80}
+---------------------------------------------
+This is a tranquil landscape featuring a clear, reflective lake surrounded by lush greenery with a mountain range in the background and a blue sky above. The scene is framed by a fence in the foreground.
+{"x1": 70, "x2": 30, "x3": -10, "x4": 80}
+---------------------------------------------
+This image shows a rugged cliff face that rises prominently from a grassy landscape. The rock formation has steep, gray, weathered walls with patches of vegetation clinging to its sides, indicative of a coastal environment where wind and water erosion have shaped the stone over time. The top of the rock appears to resemble the profile of a large bird's head with a beak, which is a natural pareidolia—a human tendency to see familiar patterns, like faces or animals, in random objects. In the foreground, there's lush green vegetation, possibly shrubs and grasses, which suggests a climate that supports such flora. The presence of such vegetation near the ocean typically means that the area receives ample rainfall. The ocean itself is visible in the background, with the water appearing relatively calm. Overhead, the sky is partly cloudy with large, fluffy clouds indicating that it's possibly a day with good weather, although the clouds could suggest that it might be prone to change. There's no visible human activity or structures in the scene, which conveys a sense of natural and untouched beauty. This place is likely a remote or protected coastal area, possibly a site of interest for nature enthusiasts, hikers, or photographers.
+{"x1": -10, "x2": 20, "x3": -30, "x4": 50}
+---------------------------------------------
+This is an office setting with various equipment and supplies. On the left, there's a white garbage bin and a floor cleaning mop. In the center, an office desk holds a multifunction printer and some books. To the right, there's a desktop computer with its case on the desk, indicating this might be a workspace where technical or maintenance work is performed. The shelves and surfaces are cluttered, suggesting a busy work environment.
+{"x1": -10, "x2": 20, "x3": 0, "x4": 30}
+---------------------------------------------
+This image captures a serene Japanese garden during autumn, characterized by vibrant red and yellow maple leaves, a moss-covered rock, a tranquil pathway, and traditional wooden signage, likely indicating a point of interest or direction within the garden.
+{"x1": 70, "x2": 30, "x3": -10, "x4": 80}
+---------------------------------------------
+This is an image of a coastal scene at sunset. The sun is low on the horizon, casting a warm golden light across the sky and reflecting on the ocean. The beach appears to have dark, possibly volcanic sand, and is edged by greenery. The waves are gently coming in, and there's a tranquil, serene atmosphere to the scene.
+{"x1": 70, "x2": 30, "x3": -10, "x4": 80}
+---------------------------------------------
+This image depicts the deck of a ferry or large ship at twilight, with a view of calm waters and distant hills or mountains. The sky is partly cloudy. The deck is empty, suggesting a peaceful, solitary moment. A sign with the text "OFF LIMITS" in English and Chinese characters indicates a restricted area for passengers. The reflections on the water suggest it's early evening or just after sunset.
+{"x1": 20, "x2": 30, "x3": -10, "x4": 50}
+---------------------------------------------
+This image shows a blurry scene of a road leading through what appears to be a rural area with structures on the side, street lamps, and a backdrop of trees and a hill or mountain. The blurriness suggests the photo may have been taken while moving or with an unsteady hand.
+{"x1": -10, "x2": 20, "x3": -30, "x4": 40}
+---------------------------------------------
+This is a street scene likely in a Japanese town, characterized by well-marked pedestrian crosswalks, a mix of residential and commercial buildings, and multiple overhead power lines. Traffic signals are visible, and a few pedestrians are present. The weather is clear, and mountains can be seen in the distance, suggesting a suburban setting.
+{"x1": 10, "x2": 20, "x3": -10, "x4": 30}
+---------------------------------------------
+This is a sunny day scene of a narrow paved path or road running through a lush, green, overgrown area with dense vegetation on either side. There are utility poles visible, suggesting that this is a maintained area, possibly in a rural or semi-wild environment. Shadows from unseen trees are cast on the path, indicating the presence of trees outside the field of view and that the photo was taken on a bright day.
+{"x1": 70, "x2": 30, "x3": -10, "x4": 80}
+---------------------------------------------
+This image depicts a quiet and dimly lit covered shopping arcade at night. The arcade appears to be closed, with shop shutters down, and there's a lack of pedestrian activity. The architecture suggests it might be located in Japan, as indicated by the signage and design elements. A solitary bicycle is parked to the side, contributing to the stillness of the scene.
+{"x1": -30, "x2": -10, "x3": -20, "x4": 0}
+---------------------------------------------
+This image shows a playground with various equipment, such as swings and a jungle gym, in front of an older building with a tiled roof. There are tall palm trees and other trees around, suggesting a warm climate. The playground appears somewhat dated and not well-maintained, with the grass overgrown and leaves scattered around.
+{"x1": -20, "x2": 10, "x3": -30, "x4": 40}
+---------------------------------------------
+This image shows a cluttered space with various items strewn about. There are boxes filled with miscellaneous goods, plastic bottles, plastic bags, and other forms of household waste, suggesting disorganization. The area appears to be a corner of a room that is being used for storage or has become a dumping ground for unwanted items.
+{"x1": -60, "x2": -20, "x3": 0, "x4": -30}
+---------------------------------------------
+This image depicts a rural landscape with lush green rice paddies, a backdrop of rolling hills partially obscured by clouds, and buildings that suggest a small community or agricultural infrastructure. The scene is likely captured from a moving vehicle, given the slight motion blur, especially in the foreground vegetation.
+{"x1": 30, "x2": 20, "x3": -10, "x4": 40}
+---------------------------------------------
+This image shows a railway track with overhead electrical lines, likely for a train system. In the background, there are buildings and a construction crane, suggesting urban development. Beyond the buildings, the sea is visible, indicating the area is close to a coastline. The sky is clear, suggesting good weather conditions.
+{"x1": 10, "x2": 20, "x3": 0, "x4": 30}
+---------------------------------------------
+This image shows a serene coastal landscape with traditional houses nestled amid lush greenery, a clear view of a calm sea, and a mountain in the distance under a bright blue sky with scattered clouds.
+{"x1": 70, "x2": 30, "x3": -10, "x4": 80}
+---------------------------------------------
+This is an overcast day scene of a countryside area, likely viewed from a train or vehicle. In the foreground, there is a road with a yellow line, while in the middle ground, there are residential buildings with traditional and modern architecture. Various vehicles are parked near the buildings. In the background, there are lush, green hills partially shrouded in mist, indicating either a recent rainfall or a rise in humidity. Overhead, there are power lines, suggesting that the area, while rural, is connected to the power grid.
+{"x1": -10, "x2": 20, "x3": -5, "x4": 30}
+---------------------------------------------
+This is an image showing a calm body of water, possibly a lake, with a dense forest in the background. The sky is overcast, and the water reflects a slight ripple, indicating a gentle breeze.
+{"x1": -10, "x2": 20, "x3": -30, "x4": 50}
+---------------------------------------------
+This image shows a body of stagnant water with a greenish hue, likely due to algae growth, bordered by a natural embankment with various vegetation. Some branches are extending over the water, and there's a visible contrast between live green foliage and some brown, likely dead vegetation, indicating a natural diversity or possibly seasonal changes. The clarity of the water surface suggests a calm day with little wind.
+{"x1": -10, "x2": 20, "x3": -30, "x4": 40}
+---------------------------------------------
+This image shows the back of two bus or coach seats with white headrest covers. The seats have a colorful patterned upholstery, and there's a sign with Chinese text affixed to the back of one seat, likely containing instructions or information for passengers. Above, there is an interior light fixture.
+{"x1": -10, "x2": 0, "x3": 0, "x4": 0}
+---------------------------------------------

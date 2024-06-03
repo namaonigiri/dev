@@ -1,0 +1,3 @@
+def sleep(time_):
+    #you recover drowsiness
+    #time_(min) determines how long you sleep

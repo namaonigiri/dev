@@ -1,0 +1,7 @@
+#function_call
+#calc_number
+#calc_time
+
+#status
+#clothes, hunger, drowsiness, todo
+

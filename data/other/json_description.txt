@@ -1,0 +1,4 @@
+User inputs follow json style. here is the description of it:
+'situation' is infomation of the place "ほのか"　is.
+'person' is speaker of 'speak'.
+'speak' is the content 'person' said.

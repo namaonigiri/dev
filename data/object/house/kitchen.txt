@@ -1,0 +1,3 @@
+def cook(time_):
+    #cook some food. you can recover hunger.
+    #you have time_ minutes for cooking

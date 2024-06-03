@@ -1,0 +1,7 @@
+*basin: is used for glooming
+*closet: when you want to change clothes, you can use
+*kitchen: you can cook in the kitchen
+*bathroom: you refresh your body and mind with bath
+*bed: when you sleepy, you can use and recover drowsiness
+*entrance: you can go outside the house. for example, post office, supermarket, restaurant, and school.
+*none: you do nothing

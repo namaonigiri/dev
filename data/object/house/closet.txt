@@ -1,0 +1,9 @@
+def dress(changeclothes_, time_):
+    #you pickup changeclothes_ from the closet. you can choose changeclothes_ from items below.
+    *uniform
+    *dress
+    *coat
+    *nightgown
+
+    #you dress changeclothes_
+    #change dress takes time_ minutes
